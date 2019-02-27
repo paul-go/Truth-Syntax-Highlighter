@@ -6,7 +6,7 @@
 		"inlineSources": true,
 		"stripInternal": true,
 		"strict": true,
-		"declaration": false,
+		"declaration": true,
 		"outDir": "./build",
 		"types": [
 			"truth-compiler"

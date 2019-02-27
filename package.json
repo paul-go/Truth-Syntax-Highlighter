@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "Syntax highlighting for the Truth language",
 	"main": "build/Highlight.js",
+	"types": "build/Highlight.d.ts",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"compile": "tsc"
@@ -21,7 +22,6 @@
 		"truth-compiler": "^0.2.12"
 	},
 	"files": [
-		"build/Highlight.js",
-		"build/Highlight.d.ts"
+		"build"
 	]
 }
