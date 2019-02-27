@@ -1,0 +1,27 @@
+{
+	"name": "truth-syntax-highlighter",
+	"version": "1.0.0",
+	"description": "Syntax highlighting for the Truth language",
+	"main": "build/Highlight.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"compile": "tsc"
+	},
+	"keywords": [
+		"Truth",
+		"language",
+		"syntax",
+		"highlighter",
+		"html",
+		"css"
+	],
+	"author": "Paul Go",
+	"license": "MIT",
+	"dependencies": {
+		"truth-compiler": "^0.2.12"
+	},
+	"files": [
+		"build/Highlight.js",
+		"build/Highlight.d.ts"
+	]
+}

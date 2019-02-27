@@ -1,0 +1,58 @@
+.truth-code SPAN
+{
+	display: inline-block;
+	font-family: monospace;
+}
+.truth-statement
+{
+	padding: 2px;
+}
+.truth-statement:empty
+{
+	height: 1em;
+}
+.truth-syntax-uri
+{
+	color: blue;
+}
+.truth-syntax-pattern
+{
+	color: brown;
+}
+.truth-syntax-comment
+{
+	color: rgba(0, 0, 0, 0.5);
+}
+.truth-syntax-term
+{
+	
+}
+.truth-syntax-type
+{
+	
+}
+.truth-syntax-tag
+{
+	font-style: italic;
+}
+.truth-syntax-operator
+{
+	
+}
+.truth-syntax-ellipsis
+{
+	opacity: 0.25
+}
+.truth-syntax-joint
+{
+	opacity: 0.25;
+}
+.truth-syntax-combinator
+{
+	opacity: 0.25;
+}
+.truth-indent-tab
+{
+	display: inline-block;
+	width: 1em;
+}
