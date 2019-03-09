@@ -1,6 +1,6 @@
 {
 	"name": "truth-syntax-highlighter",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Syntax highlighting for the Truth language",
 	"main": "build/Highlight.js",
 	"types": "build/Highlight.d.ts",
