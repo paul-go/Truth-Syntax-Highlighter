@@ -5,7 +5,7 @@ This is a syntax highlighting utility for Truth. It uses the Truth compiler to p
 ## Installation
 
 ```
-npm install truth-syntax-highligher --save
+npm install truth-syntax-highlighter --save
 ```
 
 If you're using TypeScript, you can add typings for the highlighter by modifying your `tsconfig.json` to look like this:
